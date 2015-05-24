@@ -1,0 +1,13 @@
+var w = app.getWidth();
+var h = app.getHeight();
+
+for (var i = 0; i < w; i++)
+{
+	for (var j = 0; j < h; j++)
+	{
+		if ( i % 2 == 0 || j % 2 == 0)
+			app.setPixel(i, j, [123, 123, 123])
+	}
+}
+
+app.updateImage()

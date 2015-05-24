@@ -1,0 +1,45 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../images/new.png</file>
+    <file>../images/print.png</file>
+    <file>../images/printas.png</file>
+    <file>../images/save.png</file>
+    <file>../images/saveas.png</file>
+    <file>../images/undo.png</file>
+    <file>../images/redo.png</file>
+    <file>../images/gostart.png</file>
+    <file>../images/goend.png</file>
+    <file>../images/ok.png</file>
+    <file>../images/savescriptas.png</file>
+    <file>../images/settings.png</file>
+    <file>../images/zoomfit.png</file>
+    <file>../images/zoomin.png</file>
+    <file>../images/zoomout.png</file>
+    <file>../images/pixelpointer.png</file>
+    <file>../images/diffpointer.png</file>
+    <file>../images/textpointer.png</file>    
+    <file>../images/nointeractive.png</file>
+    <file>../images/resize.png</file>
+    <file>../images/clicked.png</file>
+    <file>../images/unclicked.png</file>
+    <file>../images/move.png</file>
+    <file>../images/empty.png</file>
+    <file>../images/transparent_background.png</file>
+    <file>../images/keepimage.png</file>
+    <file>../images/algnegative.png</file>
+    
+    <file>../images/algcontrast.png</file>
+    <file>../images/algred.png</file>
+    <file>../images/alggray.png</file>
+    <file>../images/algclosing.png</file>
+    <file>../images/algerosion.png</file>
+    <file>../images/algsharpen.png</file>
+    <file>../images/algsaturation.png</file>
+    <file>../images/algcool.png</file>
+    <file>../images/algwarm.png</file>
+    <file>../images/algedges.png</file>
+    <file>../images/algsepia.png</file>
+    <file>../images/algpixelate.png</file>
+    <file>../images/algblur.png</file>
+</qresource>
+</RCC>

@@ -1,0 +1,7 @@
+[Basic]
+Author=gleaf
+Description=Load an image file
+Directory=scripts
+MenuEntry=true
+Type=io
+Version=1
